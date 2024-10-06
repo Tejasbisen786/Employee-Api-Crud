@@ -1,0 +1,11 @@
+{
+    "date": "2024-10-06",
+    "employeeId": "E12345",
+    "employeeName": "John Doe",
+    "role": "Software Engineer",
+    "employeeType": "Full-time",
+    "status": "Active",
+    "checkIn": "2024-10-06T09:00:00Z",
+    "checkOut": "2024-10-06T17:00:00Z",
+    "workType": "Remote"
+}
